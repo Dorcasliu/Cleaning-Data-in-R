@@ -1,0 +1,29 @@
+timestamp,host,application,ip_address,remote_user,message_datetime,message_tz,method,path,version,referer,user_agent
+2019-01-04T22:15:39.058552-04:00,example,nginx,192.168.2.21,-,04/Jan/2019:22:15:39,-400,GET,/,HTTP/1.1,-,Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:64.0) Gecko/20100101 Firefox/64.0
+2019-01-04T22:15:39.102469-04:00,example,nginx,192.168.2.21,-,04/Jan/2019:22:15:39,-400,GET,/static/css/main.823f6a9b.css,HTTP/1.1,http://example/,Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:64.0) Gecko/20100101 Firefox/64.0
+2019-01-04T22:15:39.107277-04:00,example,nginx,192.168.2.21,-,04/Jan/2019:22:15:39,-400,GET,/static/js/main.f7c64a0b.js,HTTP/1.1,http://example/,Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:64.0) Gecko/20100101 Firefox/64.0
+2019-01-04T22:15:39.222371-04:00,example,nginx,192.168.2.21,-,04/Jan/2019:22:15:39,-400,GET,/favicon.ico,HTTP/1.1,-,Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:64.0) Gecko/20100101 Firefox/64.0
+2019-01-04T22:15:51.103749-04:00,example,nginx,192.168.2.21,-,04/Jan/2019:22:15:51,-400,POST,/api/v1/tables/,HTTP/1.1,http://example/,Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:64.0) Gecko/20100101 Firefox/64.0
+2019-01-04T22:16:00.619117-04:00,example,nginx,192.168.2.21,-,04/Jan/2019:22:16:00,-400,GET,/static/media/icons-20.f56d7d34.woff,HTTP/1.1,http://example/static/css/main.823f6a9b.css,Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:64.0) Gecko/20100101 Firefox/64.0
+2019-01-04T22:16:03.160309-04:00,example,nginx,192.168.2.21,-,04/Jan/2019:22:16:03,-400,POST,/api/auth/,HTTP/1.1,http://example/,Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:64.0) Gecko/20100101 Firefox/64.0
+2019-01-05T01:34:20.280892+00:00,example,nginx,192.168.2.20,-,05/Jan/2019:01:34:20,0,GET,/,HTTP/1.1,-,Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:64.0) Gecko/20100101 Firefox/64.0
+2019-01-05T01:34:20.322851+00:00,example,nginx,192.168.2.20,-,05/Jan/2019:01:34:20,0,GET,/favicon.ico,HTTP/1.1,-,Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:64.0) Gecko/20100101 Firefox/64.0
+2019-01-05T02:03:36.037826+00:00,example,nginx,192.168.2.20,-,05/Jan/2019:02:03:36,0,GET,/,HTTP/1.1,-,Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:64.0) Gecko/20100101 Firefox/64.0
+2019-01-05T02:03:40.264687+00:00,example,nginx,192.168.2.20,-,05/Jan/2019:02:03:40,0,GET,/,HTTP/1.1,-,Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:64.0) Gecko/20100101 Firefox/64.0
+2019-01-05T02:03:40.299035+00:00,example,nginx,192.168.2.20,-,05/Jan/2019:02:03:40,0,GET,/favicon.ico,HTTP/1.1,-,Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:64.0) Gecko/20100101 Firefox/64.0
+2019-01-05T02:04:07.380767+00:00,example,nginx,192.168.2.18,-,05/Jan/2019:02:04:07,0,GET,/,HTTP/1.1,-,Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:64.0) Gecko/20100101 Firefox/64.0
+2019-01-05T02:04:07.426158+00:00,example,nginx,192.168.2.18,-,05/Jan/2019:02:04:07,0,GET,/favicon.ico,HTTP/1.1,-,Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:64.0) Gecko/20100101 Firefox/64.0
+2019-01-05T02:04:14.530033+00:00,example,nginx,192.168.2.18,-,05/Jan/2019:02:04:14,0,GET,/page1.html,HTTP/1.1,-,Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:64.0) Gecko/20100101 Firefox/64.0
+2019-01-05T02:04:18.034041+00:00,example,nginx,192.168.2.18,-,05/Jan/2019:02:04:18,0,GET,/page2.html,HTTP/1.1,-,Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:64.0) Gecko/20100101 Firefox/64.0
+2019-01-05T02:04:30.541331+00:00,example,nginx,192.168.2.18,-,05/Jan/2019:02:04:30,0,GET,/page10.html,HTTP/1.1,-,Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:64.0) Gecko/20100101 Firefox/64.0
+2019-01-05T02:05:04.731021+00:00,example,nginx,192.168.2.24,-,05/Jan/2019:02:05:04,0,GET,/robots.txt,HTTP/1.1,-,curl/7.47.0
+2019-01-05T02:05:09.989956+00:00,example,nginx,192.168.2.24,-,05/Jan/2019:02:05:09,0,GET,/index.html,HTTP/1.1,-,curl/7.47.0
+2019-01-05T02:05:14.294968+00:00,example,nginx,192.168.2.24,-,05/Jan/2019:02:05:14,0,GET,/page1.html,HTTP/1.1,-,curl/7.47.0
+2019-01-05T02:05:16.424518+00:00,example,nginx,192.168.2.24,-,05/Jan/2019:02:05:16,0,GET,/page2.html,HTTP/1.1,-,curl/7.47.0
+2019-01-05T02:05:18.915215+00:00,example,nginx,192.168.2.24,-,05/Jan/2019:02:05:18,0,GET,/page3.html,HTTP/1.1,-,curl/7.47.0
+2019-01-05T02:05:28.470245+00:00,example,nginx,192.168.2.24,-,05/Jan/2019:02:05:28,0,GET,/contact.html,HTTP/1.1,-,curl/7.47.0
+2019-01-05T02:05:48.450913+00:00,example,nginx,192.168.2.20,-,05/Jan/2019:02:05:48,0,GET,/,HTTP/1.1,-,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.2 Safari/605.1.15"
+2019-01-05T02:05:48.466217+00:00,example,nginx,192.168.2.20,-,05/Jan/2019:02:05:48,0,GET,/favicon.ico,HTTP/1.1,http://example/,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.2 Safari/605.1.15"
+2019-01-05T02:05:55.581464+00:00,example,nginx,192.168.2.20,-,05/Jan/2019:02:05:55,0,GET,/page1.html,HTTP/1.1,-,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.2 Safari/605.1.15"
+2019-01-05T02:05:55.600364+00:00,example,nginx,192.168.2.20,-,05/Jan/2019:02:05:55,0,GET,/favicon.ico,HTTP/1.1,http://example/page1.html,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.2 Safari/605.1.15"
+2019-01-05T02:07:01.429083+00:00,example,nginx,192.168.2.20,-,05/Jan/2019:02:07:01,0,GET,/,HTTP/1.1,-,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/17.17134"
